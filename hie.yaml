@@ -1,0 +1,4 @@
+cradle:
+  cabal:
+    - path: "./app/Main.hs"
+      component: "dir-abs-whitespace:exe:test-abs"
